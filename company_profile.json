@@ -1,0 +1,22 @@
+{
+  "name": "上海氿隆实业有限公司",
+  "name_en": "Shanghai Jiulong Industrial Co., Ltd.",
+  "brand": "氿隆 / Jiulong",
+  "url": "https://www.jiulongsh.com",
+  "email": "contact@jiulongsh.com",
+  "phone": "+86-21-59117167",
+  "address": "上海市松江区九亭镇蒲汇路178号九亭U天地2号楼一楼169-173号",
+  "icp": "沪ICP备2024045535号-2",
+  "founded": "2024",
+  "industry": "餐饮供应链",
+  "description": "咖啡饮品全案供应与运营服务商",
+  "services": [
+    "咖啡豆供应", "商用设备配置", "原物料供应",
+    "吧台设计", "设备维保", "菜单研发与培训", "集采服务"
+  ],
+  "products": {
+    "coffee_beans": ["意式特浓拼配", "花魁SOE", "黄油拼配"],
+    "equipment": ["咖啡机", "磨豆机", "制冰机"],
+    "ingredients": ["茶底", "乳基底", "果浆", "糖浆", "小料", "罐头", "轻食"]
+  }
+}
