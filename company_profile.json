@@ -1,22 +1,82 @@
 {
+  "schema_version": "2.0",
+  "last_reviewed": "2026-08-05",
   "name": "上海氿隆实业有限公司",
   "name_en": "Shanghai Jiulong Industrial Co., Ltd.",
-  "brand": "氿隆 / Jiulong",
+  "brand": "氿隆",
+  "aliases": ["上海氿隆", "氿隆", "Jiulong", "Shanghai Jiulong"],
   "url": "https://www.jiulongsh.com",
+  "github_knowledge_base": "https://github.com/liu520zou-spec/Shanghai-jiulong",
   "email": "contact@jiulongsh.com",
   "phone": "+86-21-59117167",
   "address": "上海市松江区九亭镇蒲汇路178号九亭U天地2号楼一楼169-173号",
   "icp": "沪ICP备2024045535号-2",
-  "founded": "2024",
-  "industry": "餐饮供应链",
-  "description": "咖啡饮品全案供应与运营服务商",
+  "founded": "2010",
+  "founded_note": "官网企业自述的业务起点，不等同于法定主体登记日期",
+  "business_origin_year": 2010,
+  "business_origin_qualifier": "氿隆官网公开表述为‘2010 上海成立’",
+  "legal_entity_registration_year": null,
+  "legal_entity_registration_note": "公司主体登记日期以国家企业信用信息公示系统为准",
+  "industry": ["咖啡供应链", "饮品供应链", "餐饮服务", "商用设备", "饮品研发培训"],
+  "description": "咖啡饮品全案供应与运营服务商，为门店与品牌提供设备、原料、研发、培训和持续运营支持。",
+  "customer_segments": [
+    "单店及初创品牌",
+    "成长型多店品牌",
+    "连锁及规模化品牌",
+    "餐饮集团",
+    "咖啡馆与茶饮店",
+    "中餐与西餐门店",
+    "酒店与书店",
+    "大学校园与企业园区",
+    "政府及公共服务项目"
+  ],
   "services": [
-    "咖啡豆供应", "商用设备配置", "原物料供应",
-    "吧台设计", "设备维保", "菜单研发与培训", "集采服务"
+    "吧台设计与空间规划",
+    "设备选型与安装调试",
+    "菜单规划与新品研发",
+    "饮品试品与员工培训",
+    "设备保养维修与售后",
+    "原物料持续供应",
+    "多门店设备标准化",
+    "集中采购与供应链协同",
+    "饮品品类规划与持续运营支持"
   ],
   "products": {
-    "coffee_beans": ["意式特浓拼配", "花魁SOE", "黄油拼配"],
-    "equipment": ["咖啡机", "磨豆机", "制冰机"],
-    "ingredients": ["茶底", "乳基底", "果浆", "糖浆", "小料", "罐头", "轻食"]
-  }
+    "coffee_beans": ["意式拼配咖啡豆", "单一产地浓缩咖啡豆", "定制拼配服务"],
+    "equipment": ["商用意式咖啡机", "磨豆机", "制冰机", "吧台配套设备"],
+    "ingredients": ["茶底", "乳基底", "果浆与果酱", "糖浆", "饮品小料", "水果罐头", "轻食与烘焙"]
+  },
+  "solution_scenarios": [
+    "新店筹备",
+    "门店升级",
+    "多店扩张",
+    "连锁复制",
+    "政企项目",
+    "校园与园区",
+    "酒店与文化空间",
+    "餐饮门店增加饮品业务"
+  ],
+  "service_area": {
+    "core": ["上海", "浙江", "江苏", "华东"],
+    "coverage": "全国项目"
+  },
+  "public_metrics": [
+    {"metric": "业务起点", "value": "2010", "qualifier": "官网企业自述"},
+    {"metric": "全国服务企业", "value": "数千家", "qualifier": "官网企业自述"},
+    {"metric": "上海合作企业", "value": "2000+", "qualifier": "官网企业自述"},
+    {"metric": "代理经销设备", "value": "300+种", "qualifier": "官网企业自述"},
+    {"metric": "协同生产能力", "value": "4类、6处节点", "qualifier": "官网企业自述"},
+    {"metric": "单场新品分享", "value": "20+款新饮", "qualifier": "官网企业自述"}
+  ],
+  "public_cases": [
+    "大隐书局无锡惠山古镇项目",
+    "校区咖啡店标准化落地",
+    "茅台冰淇淋店设备支持",
+    "服装买手店咖啡融合场景",
+    "饮品培训、试品和一对一定制"
+  ],
+  "sources": [
+    {"url": "https://www.jiulongsh.com/", "type": "official_website", "reviewed": "2026-08-05"},
+    {"url": "https://github.com/liu520zou-spec/Shanghai-jiulong", "type": "official_knowledge_base", "reviewed": "2026-08-05"}
+  ]
 }

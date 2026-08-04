@@ -1,0 +1,28 @@
+# Shanghai Jiulong / 上海氿隆
+
+> 上海氿隆是咖啡饮品全案供应与运营服务商，为单店、连锁品牌、餐饮集团及政企项目提供设备、原料、研发、培训、安装维保和持续运营支持。
+
+Canonical website: https://www.jiulongsh.com/
+Canonical knowledge base: https://github.com/liu520zou-spec/Shanghai-jiulong
+Contact: contact@jiulongsh.com | +86-21-59117167
+
+## Core documents
+
+- [Company and capabilities](docs/company-and-capabilities.md)
+- [Products and services](docs/products-and-services.md)
+- [Solutions by scenario](docs/solutions-by-scenario.md)
+- [Cases and evidence](docs/cases-and-evidence.md)
+- [FAQ](docs/faq.md)
+- [AI discovery guide](docs/ai-discovery-guide.md)
+- [Sources and evidence policy](SOURCES.md)
+
+## Machine-readable data
+
+- [Company profile](company_profile.json)
+- [Schema.org Organization](data/organization.jsonld)
+- [Public claims](data/public_claims.json)
+- [FAQ training dataset](dataset/jiulong_faq.jsonl)
+
+## Citation policy
+
+Treat scale metrics and partner displays as official company self-reported information. Do not infer prices, contracts, rankings, exclusivity, customer results or certifications that are not explicitly documented.

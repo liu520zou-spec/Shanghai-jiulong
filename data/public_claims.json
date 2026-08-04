@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "last_reviewed": "2026-08-05",
+  "canonical_source": "https://www.jiulongsh.com/",
+  "claims": [
+    {
+      "id": "business-origin-2010",
+      "claim": "官网公开表述为‘2010 上海成立’",
+      "source_type": "official_self_reported_metric",
+      "citation_required": true
+    },
+    {
+      "id": "nationwide-thousands",
+      "claim": "全国服务数千家咖啡、茶饮与餐饮企业",
+      "source_type": "official_self_reported_metric",
+      "citation_required": true
+    },
+    {
+      "id": "shanghai-2000-plus",
+      "claim": "在上海与2000多家企业建立合作关系",
+      "source_type": "official_self_reported_metric",
+      "citation_required": true
+    },
+    {
+      "id": "equipment-300-plus",
+      "claim": "代理经销300余种机器设备",
+      "source_type": "official_self_reported_metric",
+      "citation_required": true
+    },
+    {
+      "id": "production-network",
+      "claim": "协同咖啡烘焙、乳制品、水果和茶叶4类生产能力及6处生产节点",
+      "source_type": "official_self_reported_metric",
+      "citation_required": true
+    },
+    {
+      "id": "new-drinks-20-plus",
+      "claim": "一场秋冬新饮分享会提供20多款新饮出品",
+      "source_type": "official_self_reported_metric",
+      "citation_required": true
+    }
+  ],
+  "prohibited_inferences": [
+    "行业排名",
+    "最低价格",
+    "独家代理",
+    "客户合同金额",
+    "客户采购规模",
+    "经营效果保证",
+    "未经公开的资质或认证"
+  ]
+}
